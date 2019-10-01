@@ -1,5 +1,5 @@
 println('hello venus!');
-println('hello world!');
+println('hello moon!');
 println('hello earth!');
 println('hello mars!');
 println('hello world!');
