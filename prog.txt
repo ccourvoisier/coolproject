@@ -1,4 +1,4 @@
-println('hello world!');
+println('hello venus!');
 println('hello world!');
 println('hello earth!');
 println('hello mars!');
